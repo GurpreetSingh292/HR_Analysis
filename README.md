@@ -13,3 +13,5 @@ Gender Ratio: Assessed the gender distribution of employees leaving the company 
 Reasons for Leaving: Investigated primary factors contributing to employee exits, such as compensation issues, work-life balance, and career growth opportunities.
 
 Through detailed visualizations and data modeling in Power BI, this analysis provided actionable insights that can inform strategic HR initiatives aimed at improving retention, fostering employee satisfaction, and ultimately driving business success at AtliQ Grands.
+
+![hr analytics](https://github.com/user-attachments/assets/e2eededb-2e85-4051-962f-72b0071662cd)
